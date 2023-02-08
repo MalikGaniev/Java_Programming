@@ -1,5 +1,7 @@
 package day05_operators;
 
+import java.util.function.BiConsumer;
+
 public class UnaryOperators {
     public static void main(String[] args) {
 
@@ -42,6 +44,8 @@ public class UnaryOperators {
 
 
 
+    }
+
 
 
 
@@ -55,4 +59,4 @@ public class UnaryOperators {
 
 
 
-}
+

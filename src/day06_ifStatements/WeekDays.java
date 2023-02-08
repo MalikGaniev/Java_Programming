@@ -27,6 +27,9 @@ public class WeekDays {
         }
         System.out.println(result);
 
+
+
+
     }
 
 
